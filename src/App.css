@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+h2{
+  color: red;
+  text-decoration-line: underline;
+}
+h4{
+  color:blueviolet;
+  text-decoration-line: underline;
+}
+.fab fa-facebook-square {
+ width: 20px;
+ height: 50px;
+}
